@@ -1,0 +1,16 @@
+.header__container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  min-height: 50px;
+  padding: 15px;
+  background-color: #e8e8e8;
+}
+
+.header__counter {
+  margin-left: auto;
+  font-size: 20px;
+  font-weight: 700;
+  cursor: pointer;
+}
+/*# sourceMappingURL=header.css.map */
